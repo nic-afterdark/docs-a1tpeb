@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-teo7h9.juragan89.space/sitemap.xml
